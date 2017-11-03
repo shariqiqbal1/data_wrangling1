@@ -11,3 +11,6 @@ to run the code:
   git pull https://github.com/shariqiqbal1/data_wrangling1 master
 
 3. You will now be able to see the json file and ipynb file in the directory. Open 'analysis.ipynb' in Jupyter Notebook and run the cells to verify code. 
+
+
+For quick viewing, you can just open https://github.com/shariqiqbal1/data_wrangling1/blob/master/analysis.ipynb to verify results for each python snippet.
